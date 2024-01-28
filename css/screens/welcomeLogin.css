@@ -42,9 +42,12 @@
   color: rgba(0, 0, 0, 0.4);
 }
 
+/* pseudo element placeholder */
 #login-form input:focus {
   border-color: var(--yellow);
 }
+/* variable 받아오기 */
+/* import 로 yellow를 받아옴 */
 
 #login-form input[type="submit"] {
   background-color: var(--yellow);
@@ -60,3 +63,4 @@
   color: inherit;
   font-size: 13px;
 }
+/* 부모로부터 색상을 상속 받음 */
