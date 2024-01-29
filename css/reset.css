@@ -132,3 +132,7 @@ input:focus {
   outline: none;
 }
 /* 기본적으로 적용되는 내용 없애기  */
+a {
+  color: inherit;
+  text-decoration: none;
+}
