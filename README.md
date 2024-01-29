@@ -21,4 +21,7 @@ shift + 방향키
 - POST는 백엔드 서버에 정보를 전송하는 방식이라 이번 강의에서는 사용할 수 없다.
 - GET 방식은 보안에 취약하다. username이랑 password를 GET 방식으로 보내선 안된다. URL에 포함되어도 상관없는 정보들을 GET 방식으로 보내는 것이다.
 
-nav>ul>li\*4
+nav>ul>li\*4 tab기능
+
+- CSS에게 200px의 box를 원한다고 하면, CSS는 내가 원한대로 box를 만든다.근데 그 box에 padding을 추가하게 되면 CSS는 기본적으로 내가 원했던 200px을 유지하려고 할 것이다. 따라서, padding을 50px 줬다고 생각한다면 CSS는 box가 150px이 되었다고 생각할 것이다. 하지만 CSS는 이렇게 둘 수 없기 때문에 200px을 유지하기 위해서 box를 더 크게 만들 것이고 오히려 결과적으로 250px이 되는 것이다.
+- box-sizing: border-box; → CSS에게 "내가 padding을 줘도 신경쓰지마. 내 box 사이즈를 늘리지 말아줘"라고 말하는 격이다.
