@@ -43,11 +43,3 @@
   bottom: 30px;
 }
 
-.screen-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px;
-  padding-top: 40px;
-  opacity: 90%;
-}
