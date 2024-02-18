@@ -51,3 +51,7 @@ user-component__title--not-bold {
   margin-bottom: 10px;
   display: block;
 }
+
+.user-component__chats {
+  padding-bottom: 15px;
+}

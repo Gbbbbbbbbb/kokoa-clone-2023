@@ -9,9 +9,11 @@
 @import "components/screen-header.css";
 @import "components/user-component.css";
 @import "components/badge.css";
+@import "components/point.css";
 /* screens */
 @import "screens/welcomeLogin.css";
 @import "screens/friends.css";
+@import "screens/find.css";
 
 body {
   color: #1c2025;
