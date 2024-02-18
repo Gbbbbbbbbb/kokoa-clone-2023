@@ -5,6 +5,7 @@
   padding: var(--horizaontal-space);
   padding-top: 40px;
   opacity: 90%;
+  margin-bottom: 15px;
 }
 
 .screen-header__title {
