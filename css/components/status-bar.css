@@ -5,7 +5,7 @@
   box-sizing: border-box;
   display: flex;
   justify-content: center;
-  padding: 5px 3px;
+  padding: 1px 3px 1px 3px;
 }
 
 /* flex의 기본 형은 row flex의 축을 따라 떨어뜨리기 justify-content: space-between */
