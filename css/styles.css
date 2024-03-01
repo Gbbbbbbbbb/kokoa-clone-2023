@@ -29,4 +29,9 @@ body {
 
 .main-screen {
   padding: 0px var(--horizaontal-space);
+  /* padding-top: 40px; */
+}
+
+.friends-screen {
+  margin-top: 70px;
 }
