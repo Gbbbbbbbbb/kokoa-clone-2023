@@ -29,6 +29,7 @@
 }
 
 .chat__timestamp {
+  margin-bottom: 10px;
   color: white;
   background-color: #92a4b2;
   padding: 15px;
