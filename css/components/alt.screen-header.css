@@ -1,5 +1,6 @@
 .alt-header {
   padding: var(--horizontal-space);
+  background-color: white;
   padding-top: 40px;
   margin-bottom: 15px;
   display: flex;
@@ -9,6 +10,7 @@
   top: 0;
   left: 0;
   right: 0;
+  z-index: 1;
 }
 
 .alt-header__column {
